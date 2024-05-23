@@ -1,0 +1,24 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+button {
+    font-weight: bold;
+    height: 7em;
+    width: 20em;
+}
+
+main {
+    padding-top: 5em;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+}
+
+main {
+    display: flex;
+    justify-content: space-evenly;
+}
